@@ -15,7 +15,7 @@
                                                               /showdata.php</br>
                                                               /style.css</br>
                                                               /update.php</br>
-    **you can change folder name for your simplicity**
+    **(you can change the folder name for your simplicity)**
                                                              
 4. Start wamp server or all services of xampp from xampp panel.
 5. Now create new database in phpmyadmin
