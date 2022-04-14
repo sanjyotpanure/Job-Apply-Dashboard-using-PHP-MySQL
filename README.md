@@ -1,7 +1,7 @@
 # Job-Apply-Dashboard-using-PHP-MySQL
 
 <div align="center">
-    <img src="https://github.com/sanjyotpanure/PHP-MySQL-CRUD-Operations/blob/master/home.PNG" alt="Screenshot" />
+    <img src="https://github.com/sanjyotpanure/Job-Apply-Dashboard-using-PHP-MySQL/blob/main/home.PNG" alt="Screenshot" />
 </div>
 
 **Steps to start project:**
