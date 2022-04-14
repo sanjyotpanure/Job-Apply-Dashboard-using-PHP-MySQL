@@ -6,6 +6,7 @@
 <div align="center">
     <img src="https://github.com/sanjyotpanure/Job-Apply-Dashboard-using-PHP-MySQL/blob/main/dashboard_screenshot2.PNG" alt="Screenshot" />
 </div>
+
 **Steps to start project:**
 
 1. Download the project.
